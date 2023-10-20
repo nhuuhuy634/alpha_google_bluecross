@@ -5,7 +5,7 @@ media.mediadrmservice.enable=true
 # Graphics
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
-debug.sf.enable_gl_backpressure=1
+debug.sf.disable_backpressure=1
 debug.sf.disable_client_composition_cache=1
 debug.sf.auto_latch_unsignaled=true
 debug.sf.enable_egl_image_tracker=1
