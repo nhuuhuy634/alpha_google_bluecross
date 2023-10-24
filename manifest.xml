@@ -218,9 +218,6 @@
         <interface>
             <name>INfc</name>
             <instance>default</instance>
-        </interface>
-    </hal>
-      <hal format="hidl">
         <name>android.hardware.power.stats</name>
         <transport>hwbinder</transport>
         <version>1.0</version>
